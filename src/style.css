@@ -1,0 +1,6 @@
+.pagination>li>a{
+    padding: 5px;
+    color: white;
+    width: auto;
+    background-color: orangered;
+}
